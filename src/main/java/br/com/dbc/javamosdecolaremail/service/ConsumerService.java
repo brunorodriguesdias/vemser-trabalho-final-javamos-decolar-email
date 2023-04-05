@@ -17,6 +17,7 @@ import java.time.LocalDateTime;
 //@Slf4j
 //@RequiredArgsConstructor
 //public class ConsumidorService {
+//    private final EmailService emailService;
 //
 //    private final ObjectMapper objectMapper;
 //
